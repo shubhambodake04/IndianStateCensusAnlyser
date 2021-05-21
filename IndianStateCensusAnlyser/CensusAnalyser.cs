@@ -21,5 +21,9 @@ namespace IndianStateCensusAnlyzer
             return dataMap;
         }
 
+        public void LoadCensusData(object wrongIndianStateCensusFileType, Country iNDIA, string indianStateCensusFilePath)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
